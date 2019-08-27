@@ -1,4 +1,4 @@
-# sh10_app02 world
+# sh10_app02 python
 
 hehe
 python
